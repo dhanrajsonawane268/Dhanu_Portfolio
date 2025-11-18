@@ -1,5 +1,5 @@
 div align="center">
-<img alt="Portfolio" src="dhanraj_photo.jpg" width="90%">
+<img alt="Portfolio" src="dhanraj-photo.jpg" width="90%">
 </div>
 
 # Dhanu Portfolio  
@@ -91,10 +91,7 @@ Open the config file and update your details
 bash
 Copy code
 /src/data/resume.tsx
+
+
 🛠️ Deploy on Vercel
 Simply click the button below:
-
-
-
-📜 License
-Licensed under the MIT License.
