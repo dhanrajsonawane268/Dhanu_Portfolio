@@ -1,6 +1,9 @@
 <div align="center">
   <img src="/dhanraj-photo.jpg" alt="Portfolio" width="90%">
 </div>
+<div align="center">
+<img alt="Portfolio" src="/dhanraj-photo.jpg" width="90%">
+</div>
 
 
 # Dhanu Portfolio  
