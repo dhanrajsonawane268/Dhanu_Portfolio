@@ -1,6 +1,7 @@
-div align="center">
-<img alt="Portfolio" src="dhanraj-photo.jpg" width="90%">
+<div align="center">
+  <img src="/dhanraj-photo.jpg" alt="Portfolio" width="90%">
 </div>
+
 
 # Dhanu Portfolio  
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/dhanrajsonawane268/Dhanu_Portfolio)
